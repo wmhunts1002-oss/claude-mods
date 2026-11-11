@@ -1,0 +1,8 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "wmhunts1002-oss" },
+  "plugins": [
+    { "name": "prompt-master", "source": "./prompt-master" },
+    { "name": "mcp-switch", "source": "./mcp-switch" }
+  ]
+}
